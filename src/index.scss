@@ -1,0 +1,12 @@
+// base
+@import "./styles/base";
+
+// components
+@import "./Components/region/region";
+@import "./Components/search/search";
+@import "./Components/countryCard/countrycard";
+
+//pages
+@import "./App.scss";
+
+// @import "@material/card/mdc-card";

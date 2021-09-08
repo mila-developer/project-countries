@@ -1,0 +1,29 @@
+.title-list {
+    margin: 50px 20px 20px 350px;;
+}
+
+.Item-field, .all-input {
+    position: relative;
+    margin: 10px 10px 10px 350px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 20px;;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.btn-delete, .btn-add {
+    margin: 15px 10px 10px 100px;
+    height: 25px;
+    width: 100px;
+    background: rgba(0, 0, 0, 0.87);
+    color: white;
+    border-radius: 7px;
+    padding: 5px;
+
+    &:hover {
+        background: rgba(248, 2, 2, 0.712);
+        cursor: pointer;
+    }
+}

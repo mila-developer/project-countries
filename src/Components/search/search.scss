@@ -1,0 +1,23 @@
+.input-regions {
+    margin: 5px 5px 0 -7rem;
+    background-color: black;
+    color: white;
+    width: 25rem;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.input-regions:hover {
+    background-color: rgba(248, 2, 2, 0.712);
+}
+
+.s-regions {
+    position: relative;
+    margin: 10px 10px 10px 350px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 20px;;
+    text-align: center;
+    border-radius: 5px;
+}
